@@ -1,0 +1,19 @@
+name: draggable_carousel_slider
+description: "A draggable carousel slider widget, support loop and custom child widget."
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: '>=3.3.2 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+  vector_math: ^2.1.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
