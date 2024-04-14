@@ -1,7 +1,10 @@
 name: draggable_carousel_slider
 description: "A draggable carousel slider widget, support loop and custom child widget."
 version: 0.0.1
-homepage:
+homepage: https://iamjamali.ir
+repository: https://github.com/MohammadJamali/draggable_carousel_slider
+issue_tracker: https://github.com/MohammadJamali/draggable_carousel_slider/issues
+contributors: MohammadJamali
 
 environment:
   sdk: '>=3.3.2 <4.0.0'
