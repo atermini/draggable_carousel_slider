@@ -62,7 +62,7 @@ class _DraggableSliderState extends State<DraggableSlider> {
       scale: 1,
       visibility: 1,
       draggable: true,
-      shadow: true,
+      shadow: false,
     ),
   };
 
